@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442389664871",
+    "project_id": "customercare-4386a",
+    "storage_bucket": "customercare-4386a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442389664871:android:9d0e20c4c0b18ecc6430c2",
+        "android_client_info": {
+          "package_name": "smartinternz.challenge.customercareregistry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442389664871-omsf062icu5hoh447i344f0sir6358j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU0pXb9Jv8KKXmn5S7wAO5eZCSAqboLig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442389664871-omsf062icu5hoh447i344f0sir6358j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/drawable/circle.xml" value="0.1095" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/drawable/pending_complaints.xml" value="0.1595" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/drawable/round_corner_button.xml" value="0.213" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/drawable/round_view.xml" value="0.214" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/drawable/text_box.xml" value="0.213" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/layout/activity_admin_login.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/layout/activity_complaint.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/layout/activity_login.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/layout/activity_main.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/layout/activity_main2.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/layout/activity_splash.xml" value="0.144" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/layout/complaint_layout.xml" value="0.4" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/layout/dialog_layout.xml" value="0.536" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/layout/fragment_add_complaint.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/layout/fragment_my_complaints.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/layout/fragment_my_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/layout/fragment_pending_complaints.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/layout/fragment_profile2.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/layout/fragment_resolved_complaints.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/layout/pending_complaints.xml" value="0.4" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/menu/bottom_menu.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Sanjay Sargam/Smartinternz/app/src/main/res/menu/bottom_menu_2.xml" value="0.20260416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
